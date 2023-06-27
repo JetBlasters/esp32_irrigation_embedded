@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/components/esp32-i2c-lcd1602" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/components/esp32-smbus" vcs="Git" />
+  </component>
+</project>
